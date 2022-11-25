@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="|AM| BRASIL VIP",BAND SPORTS | 1080p
+#EXTINF:0 tvg-id="ext" group-title="|AM| BRASIL 1080p",BAND SPORTS | 1080p
 http://venomtt.com:8000/50550283926719/17728593918242/208428
 #EXTINF:0 tvg-id="ext" group-title="|AM| BRASIL VIP",A&E | 1080p
 http://venomtt.com:8000/50550283926719/17728593918242/208427
