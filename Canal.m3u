@@ -1,19 +1,18 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="",BAND SPORTS | 1080p
+#EXTINF:0 tvg-id="ext" ,BAND SPORTS | 1080p
 http://venomtt.com:8000/50550283926719/17728593918242/208428
-#EXTINF:0 tvg-id="ext" group-title="",A&E | 1080p
-http://venomtt.com:8000/50550283926719/17728593918242/208427
-#EXTINF:0 tvg-id="ext" group-title="",AMC | 1080p
+
+#EXTINF:0 tvg-id="ext" ,AMC | 1080p
 http://venomtt.com:8000/50550283926719/17728593918242/208426
-#EXTINF:0 tvg-id="ext" group-title="",ANIMAL PLANET | 1080p
+#EXTINF:0 tvg-id="ext" ,ANIMAL PLANET | 1080p
 http://venomtt.com:8000/50550283926719/17728593918242/208425
-#EXTINF:0 tvg-id="ext" group-title="",AXN | 1080p
+#EXTINF:0 tvg-id="ext" ,AXN | 1080p
 http://venomtt.com:8000/50550283926719/17728593918242/208424
-#EXTINF:0 tvg-id="ext" group-title="",BABY TV | 1080p
+#EXTINF:0 tvg-id="ext" ,BABY TV | 1080p
 http://venomtt.com:8000/50550283926719/17728593918242/208423
-#EXTINF:0 tvg-id="ext" group-title="",BAND RECIFE | 1080p
+#EXTINF:0 tvg-id="ext" ,BAND RECIFE | 1080p
 http://venomtt.com:8000/50550283926719/17728593918242/208422
 #EXTINF:0 tvg-id="ext" group-title="",BAND SP | 1080p
 http://venomtt.com:8000/50550283926719/17728593918242/208421
